@@ -1,4 +1,4 @@
-# Healthyroad - HeartRate Sample
+# HealthyRoad - HeartRate Sample
 HealthyRoad® 2015
 
 
@@ -36,7 +36,7 @@ To build, you'll need to run these commands in the HeartRateSample directory:
 	$ start HeartRateSample.sln
 
 
-If CMake complains about Qt5Widgets, that means there is no environment variable set to the QT directory, and you'll need to add this parameter to the cmake command:
+If CMake complains about Qt5Widgets, that means there is no environment variable set to the Qt directory, and you'll need to add this parameter to the cmake command:
 
 `
 -D CMAKE_PREFIX_PATH="<path/to/qt/>"
