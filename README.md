@@ -61,3 +61,5 @@ The application has a simple interface:
 - One button to start/stop the heart rate analysis
 - Three buttons to change between camera devices (if applicable)
 - One area below the three buttons, with the PPG signal ([wikipedia article](https://en.wikipedia.org/wiki/Photoplethysmogram)) and the value of the calculated Heart Rate
+
+Note that in Linux, due to OpenCV, the cameras might only work the first time you select them. Restarting the application will make them work again.
