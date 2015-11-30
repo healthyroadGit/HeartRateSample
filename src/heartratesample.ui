@@ -11,11 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>HealthyRoad - HeartRate Sample</string>
+   <string>IncrediblEye - HeartRate Sample</string>
   </property>
   <property name="windowIcon">
    <iconset resource="heartratesample.qrc">
-    <normaloff>:/HeartRateSample/Resources/appIcon.ico</normaloff>:/HeartRateSample/Resources/appIcon.ico</iconset>
+    <normaloff>:/HeartRateSample/Resources/IconIE.ico</normaloff>:/HeartRateSample/Resources/IconIE.ico</iconset>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QLabel" name="cameraLabel">
@@ -118,7 +118,7 @@
      </size>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Copyright © 2015 HealthyRoad, Lda&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Copyright © 2015 IncrediblEye, Lda&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textFormat">
      <enum>Qt::RichText</enum>

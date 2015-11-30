@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 	QDialog dialog;
 	Ui::LoadingScreen ui;
 	ui.setupUi(&dialog);
-	dialog.setWindowIcon(QIcon(":HeartRateSample/Resources/appIcon.ico"));
+	dialog.setWindowIcon(QIcon(":HeartRateSample/Resources/IconIE.ico"));
 	ui.hrIconLabel->setPixmap(QPixmap(":HeartRateSample/Resources/appIcon.png"));
 	
 	dialog.show();

@@ -1,7 +1,7 @@
 <RCC>
   <qresource prefix="HeartRateSample">
+    <file>Resources/IconIE.ico</file>
     <file>Resources/appIcon.png</file>
     <file>Resources/Heart4040.png</file>
-    <file>Resources/appIcon.ico</file>
   </qresource>
 </RCC>

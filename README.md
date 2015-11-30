@@ -1,12 +1,12 @@
-# HealthyRoad - HeartRate Sample
-HealthyRoad® 2015
+# IncrediblEye - HeartRate Sample
+IncrediblEye 2015
 
 
 
 
-This is a sample of the HeartRate functionality of the HealthyRoad SDK.
+This is a sample of the HeartRate functionality of the IncrediblEye SDK.
 
-Compiled executables can be found in the HealthyRoad Developer Zone [(click here)](http://healthyroad.pt/devcenter/en/index.php).
+Compiled executables can be found in the IncrediblEye Developer Zone [(click here)](http://www.incredibleye.com/samplehr.php).
 
 
 ## Prerequisites
@@ -14,7 +14,7 @@ You'll need to install:
 
 - Qt 5.4.x
 - CMake 2.8.11+
-- HealthyRoad SDK
+- IncrediblEye SDK
 
 
 ## Building
@@ -49,7 +49,7 @@ where the path leads to the directory containing Qt's /bin directory.
 
 To run the generated executable, you'll need to place the following directory in the same directory as the executable:
 
-- config (from the HealthyRoad SDK)
+- config (from the IncrediblEye SDK)
 
 
 ## Using the application

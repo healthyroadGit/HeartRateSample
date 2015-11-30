@@ -40,7 +40,7 @@ HeartRateSample::HeartRateSample(QWidget *parent)
 	ui.setupUi(this);
 	ui.heartImageLabel->setPixmap(QPixmap(":HeartRateSample/Resources/Heart4040.png"));
 	ui.heartImageLabel->setScaledContents(true); 
-	setWindowIcon(QIcon(":HeartRateSample/Resources/appIcon.ico"));
+	setWindowIcon(QIcon(":HeartRateSample/Resources/IconIE.ico"));
 
 	ui.trackMessageLabel->setVisible(false);
 	ui.heartMessageLabel->setVisible(false);
